@@ -28,5 +28,9 @@ class SumaTest {
         assertEquals(9, calc.sumar(9, 0));
     }
 
-    // TODO Persona A: anade aqui tu propio caso de prueba
+    @Test
+@DisplayName("100 + 250 = 350")
+void sumaNumerosGrandes() {
+    assertEquals(350, calc.sumar(100, 250));
+}
 }
