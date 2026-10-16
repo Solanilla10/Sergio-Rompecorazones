@@ -6,9 +6,9 @@ Laboratorio de Git - Entornos de Desarrollo (0487) - DAM - Plaiaundi LHII-CIFP
 
 | Rol | Nombre | Usuario GitHub | Rama |
 |-----|--------|----------------|------|
-| Persona A (coordinacion + suma) |kerman |solanilla10 | feature/suma |
-| Persona B (resta) |oihan |ikocx | feature/resta |
-| Persona C (multiplicacion) |unax |unax776 | feature/multiplicacion |
+| Persona A (coordinacion + suma) |Kerman Solana|Solanilla10 | feature/suma |
+| Persona B (resta) |Oihan Callao|ikocx | feature/resta |
+| Persona C (multiplicacion) |Unax Mierdaaseca |unax776 | feature/multiplicacion |
 
 ## Como compilar y probar
 
