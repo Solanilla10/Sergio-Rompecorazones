@@ -1,0 +1,4 @@
+user.name=Unax Villaseca
+user.email=ikodn@plaiaundi.net
+init.defaultbranch=main
+core.editor=code --wait
