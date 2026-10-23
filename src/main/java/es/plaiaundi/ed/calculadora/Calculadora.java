@@ -40,12 +40,8 @@ public class Calculadora {
      * @return a * b
      */
 
-   public int multiplicar(int a, int b) {
-    return a * b;
-}
+  
 
-    public int multiplicar(int a, int b) {
-        throw new UnsupportedOperationException("multiplicar() pendiente de implementar");
-    }
+   
 
 }
