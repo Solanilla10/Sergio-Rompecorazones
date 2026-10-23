@@ -1,7 +1,6 @@
 package es.plaiaundi.ed.calculadora;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -28,5 +27,9 @@ class RestaTest {
         assertEquals(3, calc.restar(-2, -5));
     }
 
-    // TODO Persona B: anade aqui tu propio caso de prueba
+    @Test
+    @DisplayName("5 - 0 = 5")
+    void restaConCero() {
+        assertEquals(5, calc.restar(5, 0));
+    }
 }
