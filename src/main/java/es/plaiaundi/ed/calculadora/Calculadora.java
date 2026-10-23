@@ -1,3 +1,4 @@
+
 package es.plaiaundi.ed.calculadora;
 
 /**
@@ -17,9 +18,6 @@ public class Calculadora {
     public int sumar(int a, int b) {
         return a + b;
     }
-        // TODO Persona A: implementar la suma
-        throw new UnsupportedOperationException("sumar() pendiente de implementar");
-    }
 
     /**
      * Resta dos numeros enteros.
@@ -30,8 +28,7 @@ public class Calculadora {
      * @return a - b
      */
     public int restar(int a, int b) {
-        // TODO Persona B: implementar la resta
-        throw new UnsupportedOperationException("restar() pendiente de implementar");
+        return a - b;
     }
 
     /**
@@ -43,7 +40,6 @@ public class Calculadora {
      * @return a * b
      */
     public int multiplicar(int a, int b) {
-        // TODO Persona C: implementar la multiplicacion
         throw new UnsupportedOperationException("multiplicar() pendiente de implementar");
     }
 }
