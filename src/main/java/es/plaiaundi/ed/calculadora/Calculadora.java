@@ -17,9 +17,9 @@ public class Calculadora {
     public int sumar(int a, int b) {
         return a + b;
     }
-        // TODO Persona A: implementar la suma
-        throw new UnsupportedOperationException("sumar() pendiente de implementar");
-    }
+        
+      
+    
 
     /**
      * Resta dos numeros enteros.
@@ -42,8 +42,7 @@ public class Calculadora {
      * @param b segundo factor
      * @return a * b
      */
-    public int multiplicar(int a, int b) {
-        // TODO Persona C: implementar la multiplicacion
-        throw new UnsupportedOperationException("multiplicar() pendiente de implementar");
-    }
+   public int multiplicar(int a, int b) {
+    return a * b;
+}
 }
